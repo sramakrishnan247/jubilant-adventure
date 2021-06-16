@@ -1,2 +1,2 @@
 # jubilant-adventure
-Examples using COCO API 
+Example usage of COCO API for class specific loading and masking 
